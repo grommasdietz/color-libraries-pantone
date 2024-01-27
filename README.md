@@ -11,6 +11,9 @@ Copy the files from the given folder structure to the corresponding paths:
 
 ### MacOS
 
+1. Copy the path and use `⇧ Shift + ⌘ Command + G` on finder for "Go to folder…". Then paste and enter to open the corresponding folder.
+2. Copy the folders from the downloaded repository, go to the corresponding folder and use `⌥ Option/Alt + ⌘ Command + V` to merge.
+
 #### Photoshop
 ```
 /Applications/Adobe Photoshop CC 2024/Presets/Color Books
@@ -25,9 +28,6 @@ Copy the files from the given folder structure to the corresponding paths:
 ```
 /Applications/Adobe InDesign CC 2024/Presets/Swatch Libraries
 ```
-
-1. Copy the path and use `⇧ Shift + ⌘ Command + G` on finder for "Go to folder…". Then paste and enter to open the corresponding folder.
-2. Copy the folders from the downloaded repository, go to the corresponding folder and use `⌥ Option/Alt + ⌘ Command + V` to merge.
 
 ### Windows
 
