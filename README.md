@@ -10,7 +10,7 @@ Copy the files from the given folder structure to the corresponding paths:
 > You may have to adapt the year on all paths as well as your region specific language code on Illustrator!
 
 > [!NOTE]
-> You have to open the paths on MacOS manually, since *Go to folder…* only works for opening the application folder!
+> You have to open the paths on MacOS manually, since *Go to folder…* only works for opening the application folder! 
 
 ### MacOS
 
