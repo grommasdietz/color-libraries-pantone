@@ -7,12 +7,12 @@ Pantone color libraries as .acb files for Adobe Creative Cloud applications, dow
 Copy the files from the given folder structure to the corresponding paths:
 
 > [!IMPORTANT]
-> You may have to adapt the year on all paths as well as your region specific language code on illustrator!
+> You may have to adapt the year on all paths as well as your region specific language code on Illustrator!
+
+> [!NOTE]
+> You have to open the paths on MacOS manually, since *Go to folder…* only works for opening the application folder!
 
 ### MacOS
-
-1. Copy the path and use `⇧ Shift + ⌘ Command + G` on finder for "Go to folder…". Then paste and enter to open the corresponding folder.
-2. Copy the folders from the downloaded repository, go to the corresponding folder and use `⌥ Option/Alt + ⌘ Command + V` to merge.
 
 #### Photoshop
 ```
