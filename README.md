@@ -1,4 +1,4 @@
-# Pantone color libraries
+# Color Libraries: Pantone
 
 Pantone color libraries as .acb files for Adobe CC, downloaded with Pantone Color Manager in August 2019. To use the colour libraries, copy the .acb files to the *Color Books* folder of the target application. You may have to adapt to your region specific language code on illustrator paths.
 
